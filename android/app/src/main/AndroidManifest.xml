@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.gerenciador_de_clientes">
    <application
-        android:label="gerenciador_de_clientes"
+        android:label="Gerenciador de Clientes"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
